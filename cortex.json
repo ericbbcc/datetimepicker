@@ -1,6 +1,6 @@
 {
   "name": "datetimepicker",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "datetimepicker",
   "main": "datetimepicker.js",
   "devDependencies": {
