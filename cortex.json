@@ -1,17 +1,26 @@
 {
   "name": "datetimepicker",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "description": "datetimepicker",
   "main": "datetimepicker.js",
   "devDependencies": {
     "assert": "*"
   },
-  "entries": [
-    "js/*.js"
-  ],
   "dependencies": {
     "jquery": "^1.9.1"
   },
+  "entries": [
+    "js/*.js"
+  ],
+  "scripts": {
+    "prebuild": "gulp"
+  },
+  "directories": {
+    "src": "css"
+  },
+  "css":[
+    "css/*.css"
+  ],
   "repository": "git://github.com/ericbbcc/datetimepicker.git",
   "keywords": [
     "datetimepicket"

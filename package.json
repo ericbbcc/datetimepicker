@@ -15,5 +15,10 @@
   "bugs": {
     "url": "http://github.com/andy/datetimepicker/issues"
   },
-  "homepage": "http://github.com/andy/datetimepicker"
+  "homepage": "http://github.com/andy/datetimepicker",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-minify-css": "^1.1.6",
+    "gulp-rename": "^1.2.2"
+  }
 }
