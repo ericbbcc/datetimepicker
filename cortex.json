@@ -1,0 +1,28 @@
+{
+  "name": "datetimepicker",
+  "version": "0.1.1",
+  "description": "datetimepicker",
+  "main": "datetimepicker.js",
+  "devDependencies": {
+    "assert": "*"
+  },
+  "entries": [
+    "js/*.js"
+  ],
+  "dependencies": {
+    "jquery": "^1.9.1"
+  },
+  "repository": "git://github.com/ericbbcc/datetimepicker.git",
+  "keywords": [
+    "datetimepicket"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "float.lu",
+    "email": "378979705@qq.com"
+  },
+  "bugs": {
+    "url": "http://github.com/ericbbcc/datetimepicker/issues"
+  },
+  "homepage": "http://github.com/ericbbcc/datetimepicker"
+}
